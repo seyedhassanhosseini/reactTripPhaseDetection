@@ -66,6 +66,6 @@ class MapTrips extends Component {
 }
 
 export default GoogleApiWrapper({
-    apiKey: "AIzaSyBROg0MUXDKCAwV7i3L2J-Jy0Q8415UbOk"
+    apiKey: "----"
 })(MapTrips)
 
